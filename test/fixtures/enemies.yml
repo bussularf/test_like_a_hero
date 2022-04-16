@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  power_base: 1
+  power_step: 1
+  level: 1
+  kind: 1
+
+two:
+  name: MyString
+  power_base: 1
+  power_step: 1
+  level: 1
+  kind: 1
